@@ -5,16 +5,18 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(January 31, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Kibinesh Fulas)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This websites summarizes the version control systems that were covered in lesson 3. Git Repository and its command is discussed in detail)
+## View Project
+https://kibinesh.github.io/lesson3_VersionControl/ 
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (What version control is and its eveolution over time .)
+2. (Git version control and its command.)
+3. (How to set up GitHub account and link it to Cloud 9 development environment.)
 
